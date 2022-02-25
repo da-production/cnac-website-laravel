@@ -1,0 +1,23 @@
+﻿body {
+    font-family: 'Cairo', sans-serif !important;
+}
+*:not(i){
+    font-family: 'Cairo', sans-serif !important;
+}
+.main-menu .navigation > li > ul{
+    right: 0px !important;
+}
+.home-2 .title{
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.mobile-menu .navigation li.dropdown .dropdown-btn{
+    right: calc(100% - 44px);
+    left:0px !important;
+}
+
+.direction-rtl{
+    direction:rtl;
+}

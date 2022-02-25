@@ -1,0 +1,33 @@
+/*** 
+
+====================================================================
+	Top header
+====================================================================
+
+***/
+.header{
+    background-color: #1d262d;
+}
+.header .lang li{
+    font-size: 12px;
+    color: #fff;
+    align-self: center;
+    margin-left: 5px;
+}
+.header .lang a{
+    font-size: 12px;
+    color: #fff;
+}
+.header,.top-header,.main-header,.blue-bg,.about-section,.main-menu .navigation > li > ul{
+    background-color: #1d262d !important;
+}
+.blue-bg,.about-section *{
+    background-image: none !important;
+}
+.page-wrapper{
+    background-color: #1d262d;
+    color: #fff;
+}
+.main-menu .navigation > li > ul *,.about-section *{
+    color: #fff !important;
+}

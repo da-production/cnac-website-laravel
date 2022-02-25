@@ -1,0 +1,1001 @@
+[{
+    "id": "1",
+    "wilaya": "Alger",
+    "phone": "023 37 72 91 \/ 023 37 73 12 \/ 023 37 72 93 \/ 023 37 72 82 \/ 023 37 72 94",
+    "fax": "023 37 73 01",
+    "email": "",
+    "adresse": "97, Boulevard Colonel Bougara El-Biar Alger",
+    "type": "Direction Generale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "2",
+    "wilaya": "Alger",
+    "phone": "023 57 38 53 \/ 54",
+    "fax": "023 57 36 81",
+    "email": "",
+    "adresse": "Cite AADL 249 logements tour N\u00b02 la concorde Bir Mourad Rais Alger",
+    "type": "Agence R\u00e9gionale d'Alger",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "3",
+    "wilaya": "Annaba",
+    "phone": "038 51 78 97",
+    "fax": "038 51 78 99",
+    "email": "",
+    "adresse": "Cite les plaines ouest BT A BP 108",
+    "type": "Agence R\u00e9gionale d'Alger",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "4",
+    "wilaya": "Batna",
+    "phone": "033-85-61-82",
+    "fax": "033-85-61-74",
+    "email": "",
+    "adresse": "BP 278 ANNASR OU CITE 05 JUILLET RUE ABDESSAMED ABDELMADJID",
+    "type": "Agence R\u00e9gional",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "5",
+    "wilaya": "B\u00e9char",
+    "phone": "049 80 10 67",
+    "fax": "049 80 10 67",
+    "email": "",
+    "adresse": "CIT\u00c9 68 LOGTS CENTRE VILLE",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "6",
+    "wilaya": "Blida",
+    "phone": "025-22-54-63\/025-22-52-91\/92",
+    "fax": "025-22-54-63\/60",
+    "email": "",
+    "adresse": "AVENUE KRITLI MOKHTAR OUED BENNI AZZA ",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "7",
+    "wilaya": "Chlef",
+    "phone": "027 77 07 01",
+    "fax": "027 77 06 82",
+    "email": "",
+    "adresse": "RUE ADJUDANT AZZOUNE ex : SIEGE SAA",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "8",
+    "wilaya": "Constantine",
+    "phone": "031 62 09 41",
+    "fax": "031 62 09 38",
+    "email": "",
+    "adresse": "CENTRE COMMERCIAL DAKSI A PROXIMITE DE L'ONS",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "9",
+    "wilaya": "Oran",
+    "phone": "041 42 44 07",
+    "fax": "041 42 87 34",
+    "email": "",
+    "adresse": "52 Rue El Bachir Elmimi BP 7134 Essdikia",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "10",
+    "wilaya": "Ouargla",
+    "phone": "029 71 20 19 \/ 029 71 43 33",
+    "fax": "029 71 43 53",
+    "email": "",
+    "adresse": "Face Commissariat Mekhedma, bp n\u00b0 122, 1er Mai",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "11",
+    "wilaya": "Setif",
+    "phone": "036 93 50 64",
+    "fax": "036 93 50 67",
+    "email": "",
+    "adresse": "CITE LES 300 LOGEMENT LES TOURS",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "12",
+    "wilaya": "Sidi Bel Abbes",
+    "phone": "048 75 85 54",
+    "fax": "048 75 83 27",
+    "email": "",
+    "adresse": "AVENUE ABBANE RAMDANE",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "13",
+    "wilaya": "Tiaret",
+    "phone": "046 22 13 59 ",
+    "fax": "046 22 13 60",
+    "email": "",
+    "adresse": "ROUTE AIN GUESMA",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "14",
+    "wilaya": "Tizi Ouzou",
+    "phone": "026 20 16 89",
+    "fax": "026 20 37 55",
+    "email": "",
+    "adresse": "6 BOULEVARD COLONEL AMIROUCHE",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "15",
+    "wilaya": "Alger",
+    "phone": "021 73 40 65 \/ 66",
+    "fax": "021.73.40.69",
+    "email": "",
+    "adresse": "5 RUE ABANE RAMDANE ALGER",
+    "type": "AGENCES DE WILAYA",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "16",
+    "wilaya": "Alger",
+    "phone": "021 75 31 05 ",
+    "fax": "021 75 37 55",
+    "email": "",
+    "adresse": "STADE COMMUNALE BEN RABAH AMAR DAR EL BEIDA",
+    "type": "Antenne Dar El Beida",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "17",
+    "wilaya": "alger",
+    "phone": "023.20.52.38",
+    "fax": "023.20.52.37",
+    "email": "",
+    "adresse": "AADL SITE 212 LOGTS ZERALDA",
+    "type": "Antenne Zeralda",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "18",
+    "wilaya": "Alger",
+    "phone": "023 25 48 27",
+    "fax": "023 25 48 28",
+    "email": "",
+    "adresse": "AADL SITE 1530 LOGTS OULED FAYET",
+    "type": "Antenne Ouled Fayet",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "19",
+    "wilaya": "Alger",
+    "phone": "\/",
+    "fax": "\/",
+    "email": "",
+    "adresse": "Cit\u00e9 AADL Ain Naadja",
+    "type": "Antenne Ain Naadja",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "20",
+    "wilaya": "Alger",
+    "phone": "023 54 02 83\/84",
+    "fax": "023 54 02 85",
+    "email": "",
+    "adresse": "3 RUE DES FR\u00c8RES BOUADOU BIR MOURAD RAIS",
+    "type": "Antenne Bir Mourad Rais",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "21",
+    "wilaya": "Alger",
+    "phone": "021 65 75 74",
+    "fax": "021 65 75 92",
+    "email": "",
+    "adresse": "19 RUE ABDELKADER MEBARKI GHERMOUL",
+    "type": "Antenne Ghermoul",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "22",
+    "wilaya": "",
+    "phone": "021 43 73 87",
+    "fax": "021 43 73 78",
+    "email": "",
+    "adresse": "CIT\u00c9 19 MARS , BP N\u00b0 143 BELLE VUE ",
+    "type": "Antenne Bab El Oued",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "23",
+    "wilaya": "Alger",
+    "phone": "023.89.70.90",
+    "fax": "023.89.70.88",
+    "email": "",
+    "adresse": "AADL SITE 416 LOGTS EUCALYPTUS",
+    "type": "Antenne Eucalyptus",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "24",
+    "wilaya": "Alger",
+    "phone": "021.83.46.16",
+    "fax": "021.83.46.17",
+    "email": "",
+    "adresse": "AADL SITE 116 LOGTS BOUMATI",
+    "type": "Antenne Boumaati",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "25",
+    "wilaya": "Annaba",
+    "phone": "038 41 78 97 \/ 038 41 87 57",
+    "fax": "038 4178 99 ",
+    "email": "",
+    "adresse": "RESIDENCE LES PLATANES B T A B P 108 PLAINE OUEST ANNABA",
+    "type": "AGENCES DE WILAYA",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "26",
+    "wilaya": "Adrar",
+    "phone": "049 96 40 46",
+    "fax": "049 96 40 46",
+    "email": "",
+    "adresse": "BOULEVARD DE L\u2019INDEPENDANCE N\u00b0 5 ADRAR",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "27",
+    "wilaya": "Ain Defla",
+    "phone": "027 60 61 26",
+    "fax": "027 60 19 89",
+    "email": "",
+    "adresse": "CITE ADMINSTRATIF BP 139",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "28",
+    "wilaya": "Ain Temouchent",
+    "phone": "043 78 66 33",
+    "fax": "043 78 66 33",
+    "email": "",
+    "adresse": "HAI ZITOUNE ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "29",
+    "wilaya": "Ain Temouchent",
+    "phone": "043 76 06 48",
+    "fax": "043 76 06 48",
+    "email": "",
+    "adresse": "ANNEXE APC RUE LES FRERES MAAROUF ",
+    "type": "Antenne El Amria",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "30",
+    "wilaya": "Ain Temouchent",
+    "phone": "043 68 11 95",
+    "fax": "043 68 11 95",
+    "email": "",
+    "adresse": "NVLLE BIBLIOTHEQUE DE L'A P C ",
+    "type": "Antenne Beni Saf",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "31",
+    "wilaya": "Ain Temouchent",
+    "phone": "\/",
+    "fax": "\/",
+    "email": "",
+    "adresse": "ANNEXE APC RUE KEBIR AOUED ",
+    "type": "Antenne Hamma Bou Hadjar",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "32",
+    "wilaya": "Ain Temouchent",
+    "phone": "043 63 21 57",
+    "fax": "043 73 11 57",
+    "email": "",
+    "adresse": "SIEGE APC CITE DES MARTYRS",
+    "type": "Antenne Ain Larbaa",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "33",
+    "wilaya": "B\u00e9char",
+    "phone": "049 80 11 13",
+    "fax": "049 80 11 13",
+    "email": "",
+    "adresse": "CITE 68 LOGTS , BP 69 LA BARGA, CENTRE VILLE BECHAR",
+    "type": "AGENCES DE WILAYA",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "34",
+    "wilaya": "Bejaia",
+    "phone": "034 12 48 41 ",
+    "fax": "034 12 48 46 ",
+    "email": "",
+    "adresse": "CITE DES 34 LOGEMENTS EPLF QUARTIER SEGHIR",
+    "type": "AGENCES DE WILAYA",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "35",
+    "wilaya": "Biskra",
+    "phone": "033 51 96 46",
+    "fax": "033 51 96 47",
+    "email": "",
+    "adresse": "034 12 48 41 ",
+    "type": "AGENCES DE WILAYA",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "36",
+    "wilaya": "Blida",
+    "phone": "025 22 52 91",
+    "fax": "025 22 53 60",
+    "email": "",
+    "adresse": "AVENUE KRITLI MOKHTAR \u2013 OUED BENI AZZA \u2013 BLIDA ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "37",
+    "wilaya": "Blida",
+    "phone": "025-21-44-49",
+    "fax": "025-21-44-49",
+    "email": "",
+    "adresse": "PLACE LARBI BEN M'HIDI N\u00b01 BLIDA",
+    "type": "Antenne Blida Centre",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "38",
+    "wilaya": "Blida",
+    "phone": "025-36-10-43",
+    "fax": "\/",
+    "email": "",
+    "adresse": "Cit\u00e9 AADL Bt N\u00b0 29, Ouled Yaich",
+    "type": "Antenne Ouled Yaich - Blida",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "39",
+    "wilaya": "Bordj Bou Arreridj",
+    "phone": "035 73 30 16",
+    "fax": "035 73 30 15",
+    "email": "",
+    "adresse": "111 LOG PROMOTION AVENUE HOUARI BOUMEDIENNE (EN FACE 500 LGTS)",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "40",
+    "wilaya": "Bouira",
+    "phone": "035 73 30 16",
+    "fax": "035 73 30 15",
+    "email": "",
+    "adresse": "111 LOG PROMOTION AVENUE HOUARI BOUMEDIENNE (EN FACE 500 LGTS)",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "41",
+    "wilaya": "Boumerdes",
+    "phone": "024 94 92 55",
+    "fax": "024 94 92 56",
+    "email": "",
+    "adresse": "BLOC N\u00b0 5 SIEGE DE LA WILAYA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "42",
+    "wilaya": "Chlef",
+    "phone": "027 77 33 48 \/ 027 79 07 04 ",
+    "fax": "027 79 04 43",
+    "email": "",
+    "adresse": "RUE ADJUDANT AZZOUN EX SAA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "43",
+    "wilaya": "Constantine",
+    "phone": "031 62 77 84 \/ 031 62 80 24",
+    "fax": "031 62 79 55",
+    "email": "",
+    "adresse": "CENTRE COMMERCIAL DAKSI A PROXIMITE DE L'ONS",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "44",
+    "wilaya": "Djelfa",
+    "phone": "027 92 55 12",
+    "fax": "027 87 30 98",
+    "email": "",
+    "adresse": "ROUTE DE LAGHOUAT EX : SIEGE SAA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "45",
+    "wilaya": "El Bayadh",
+    "phone": "049 67 10 90",
+    "fax": "049 67 10 88",
+    "email": "",
+    "adresse": "CIT\u00c9 CNEP A COT\u00c9 DE L'ECOLE MOULOUD FERRAOUN",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "46",
+    "wilaya": "El Oued",
+    "phone": "032 13 91 73",
+    "fax": "032 13 91 73",
+    "email": "",
+    "adresse": "Cit\u00e9 19 Mai , BP N\u00b0 143 Belle Vue",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "47",
+    "wilaya": "El Taref",
+    "phone": "038 60 23 11",
+    "fax": "038 60 22 02",
+    "email": "",
+    "adresse": "CIT\u00c9 168 LOGTS LABIDI RAMDANE",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "48",
+    "wilaya": "Ghardaia",
+    "phone": "029 88 23 00",
+    "fax": "029 89 23 00",
+    "email": "",
+    "adresse": "RUE KHETTALA 15 VILLA GHARDAIA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "49",
+    "wilaya": "Guelma",
+    "phone": "037 15 00 11",
+    "fax": "037 15 00 11",
+    "email": "",
+    "adresse": "RUE DE VOLONTARIAT - GUELMA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "50",
+    "wilaya": "Illizi",
+    "phone": "029 40 40 82",
+    "fax": "029 40 40 83",
+    "email": "",
+    "adresse": "NOUVELLE CIT\u00c9 ADMINISTRATIVE ILLIZI",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "51",
+    "wilaya": "Jijel",
+    "phone": "034 47 49 38 \/ 034 \/ 47 \/ 49 \/ 39",
+    "fax": "034 47 39 36",
+    "email": "",
+    "adresse": "CITE 328 LOGEMENTS PROMOTIONNELS CAMP CHEVALIER",
+    "type": "Agence R\u00e9gionale",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "52",
+    "wilaya": "Khenchela",
+    "phone": "032 72 72 40",
+    "fax": "032 72 72 41",
+    "email": "",
+    "adresse": "CITE 150 LOGTS EN FACE SIEGE DE LA WILAYA ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "53",
+    "wilaya": "Laghouat",
+    "phone": "029 13 41 10",
+    "fax": "029 13 41 26",
+    "email": "",
+    "adresse": "CIT\u00c9 05 JUILLET PR\u00c9S DE LA CNR LAGHOUAT BP 1651 MAAMOUARAH LAGHOUAT",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "54",
+    "wilaya": "Mascara",
+    "phone": "045 72 24 47",
+    "fax": "045 72 24 46",
+    "email": "",
+    "adresse": "RUE DOCTEUR KHALED N\u00b018",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "55",
+    "wilaya": "Mascara",
+    "phone": "045 72 24 47",
+    "fax": "045 72 24 46",
+    "email": "",
+    "adresse": "",
+    "type": "Antenne Mohammadia",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "56",
+    "wilaya": "Medea",
+    "phone": "025 58 28 75",
+    "fax": "025 58 66 56",
+    "email": "",
+    "adresse": "QUARTIER TAKBOU ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "57",
+    "wilaya": "Mila",
+    "phone": "031 57 87 95",
+    "fax": "031 57 51 03",
+    "email": "",
+    "adresse": "CENTRE COMMERCIAL, MILA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "58",
+    "wilaya": "Msila",
+    "phone": "035 33 05 14",
+    "fax": "035 33 06 43",
+    "email": "",
+    "adresse": "RUE DOUDOU NADIR EX HOPITAL PSYCATRIQUE M'SILA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "59",
+    "wilaya": "Mostaganem",
+    "phone": "045 42 52 70 \/ 045 42 52 71",
+    "fax": "045 42 52 68",
+    "email": "",
+    "adresse": "CENTRE D\u2019AFFAIRES ET DE COMMERCE CITE 5 JUILLET 62 MOSTAGANEM",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "60",
+    "wilaya": "Mostaganem",
+    "phone": "045 42 52 71",
+    "fax": "045 42 52 71",
+    "email": "",
+    "adresse": "Rue Draar Mohamed Ancienne Da\u00efra",
+    "type": "Antenne Sidi Ali",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "61",
+    "wilaya": "Naama",
+    "phone": "049 59 04 58",
+    "fax": "049 59 04 59",
+    "email": "",
+    "adresse": "CIT\u00c9 1ER NOVEMBRE 1954 BP: N\u00b0162 RP ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "62",
+    "wilaya": "Naama",
+    "phone": "049 56 77 81",
+    "fax": "049 56 77 81",
+    "email": "",
+    "adresse": "SIEGE DE LA DAIRA",
+    "type": "Antenne Ain Sefra",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "63",
+    "wilaya": "Ouargla",
+    "phone": "029 71 20 19",
+    "fax": "029 71 43 53",
+    "email": "",
+    "adresse": "BP 122 PLACE DU 1ER MAI OUARGLA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "64",
+    "wilaya": "Oran",
+    "phone": "041 42 17 55",
+    "fax": "04142 17 55",
+    "email": "",
+    "adresse": "52, RUE EL BACHIR EL IBRAHIMI BP 7134 ESSIDIKIA ORAN",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "65",
+    "wilaya": "Oran",
+    "phone": "041 42 44 07",
+    "fax": "041 42 87 34",
+    "email": "",
+    "adresse": "2 Rue El Bachir Elmimi BP 7134 Essdikia",
+    "type": "Antenne Oran 2",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "66",
+    "wilaya": "Oran",
+    "phone": "041 33 38 89",
+    "fax": "041 33 38 82",
+    "email": "",
+    "adresse": "08 Rue farh el hadj haioussama (ex: Boulanger)",
+    "type": "Antenne Oran 3",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "67",
+    "wilaya": "Oum El Bouaghi",
+    "phone": "032 54 51 27",
+    "fax": "032 54 51 28",
+    "email": "",
+    "adresse": "CIT\u00c9 ADMINISTRATIVE B P N\u00b0 982 OUM EL BOUAGHI ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "68",
+    "wilaya": "Relizane",
+    "phone": "046 76 03 30 \/ 046 76 03 29",
+    "fax": "046 76 03 32",
+    "email": "",
+    "adresse": "CITE DIAR EL OUARD",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "69",
+    "wilaya": "Relizane",
+    "phone": "046 76 03 31",
+    "fax": "046 76 03 30",
+    "email": "",
+    "adresse": "Antenne EL MATMAR SIEGE DAIRA EL MATMAR",
+    "type": "Antenne El Matmar",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "70",
+    "wilaya": "Relizane",
+    "phone": "046 76 03 31",
+    "fax": "046 76 03 30",
+    "email": "",
+    "adresse": "ANCIEN SIEGE APC-HAI COMMANDANT SI ALI AMMI MOUSSA",
+    "type": "Antenne Ammi Moussa",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "71",
+    "wilaya": "Relizane",
+    "phone": "\/",
+    "fax": "\/",
+    "email": "",
+    "adresse": "CENTRE CULTUREL HAI EL WIAAM EL MADANI",
+    "type": "Antenne Oued Rhiou",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "72",
+    "wilaya": "Relizane",
+    "phone": "046 76 03 31",
+    "fax": "046 76 03 30",
+    "email": "",
+    "adresse": " DAIRA de M'Hmed Ben Ali",
+    "type": "Antenne M'Hamed Benli",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "73",
+    "wilaya": "Saida",
+    "phone": "048.41.02.94",
+    "fax": "048.41.01.46",
+    "email": "",
+    "adresse": "EPBTP SAIDA (Entreprise dissoute)",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "74",
+    "wilaya": "Saida",
+    "phone": "048 51 05 80",
+    "fax": "\/",
+    "email": "",
+    "adresse": "SIEGE DE LA DAIRA",
+    "type": "Antenne Hassasna",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "75",
+    "wilaya": "Saida",
+    "phone": "048 50 26 99",
+    "fax": "\/",
+    "email": "",
+    "adresse": "SIEGE DE LA DAIRA",
+    "type": "Antenne Ain El Hdjar",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "76",
+    "wilaya": "Saida",
+    "phone": "048 50 76 02",
+    "fax": "\/",
+    "email": "",
+    "adresse": "ROUTE DE TIRCINE COMMUNE OULED BRAHIM",
+    "type": "Antenne Ouled Brahim",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "77",
+    "wilaya": "Setif",
+    "phone": "036 93 50 64",
+    "fax": "036 93 50 67",
+    "email": "",
+    "adresse": "CITE DES TOURS SETIF",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "78",
+    "wilaya": "Sidi Bel Abbes",
+    "phone": "048 75 83 07 \/ 048 75 80 82",
+    "fax": "048 75 83 27",
+    "email": "",
+    "adresse": "AVENUE ABBANE RAMDANE \u2013 BP 325 \u2013 SIDI BEL ABBES",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "79",
+    "wilaya": "Sidi Bel Abbes",
+    "phone": "048 75 85 54",
+    "fax": "048 75 85 54",
+    "email": "",
+    "adresse": "AVENUE ABBANE RAMDANE SIDI BEL ABBES",
+    "type": "Antenne Ras El Ma",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "80",
+    "wilaya": "Sidi Bel Abbes",
+    "phone": "048.75.85.54",
+    "fax": "048.75.85.54",
+    "email": "",
+    "adresse": "GRAND BOULEVERD ROUTE DE TLEMCEN BENBADIS",
+    "type": "Antenne Ben Badis",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "81",
+    "wilaya": "Sidi Bel Abbes",
+    "phone": "048 66 03 88",
+    "fax": "\/",
+    "email": "",
+    "adresse": "SIEGE DE LA DAIRA RUE MOHAMED KHEMISTI",
+    "type": "Antenne Ain El Berd",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "82",
+    "wilaya": "Sidi Bel Abbes",
+    "phone": "048-79-50-67",
+    "fax": "048-79-50-67",
+    "email": "",
+    "adresse": "RUE GHARBI ABDELKADER JARDIN SFISEF",
+    "type": "Antenne Sfisef",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "83",
+    "wilaya": "Skikda",
+    "phone": "030 92 61 72",
+    "fax": "038 76 48 53",
+    "email": "",
+    "adresse": "CIT\u00c9 BOUHADJA MERDJ EDDIB BP 485 ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "84",
+    "wilaya": "Souk Ahras",
+    "phone": "037 32 23 63",
+    "fax": "037 32 50 34",
+    "email": "",
+    "adresse": "cite 400 logements",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "85",
+    "wilaya": "Tamanrasset",
+    "phone": "029 30 32 63",
+    "fax": "029 30 39 03",
+    "email": "",
+    "adresse": "N\u00b0 K 34 SERSSOUF EN FACE MOBILIS PB 1835 ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "86",
+    "wilaya": "Tebessa",
+    "phone": "037 516342 \/037 516347",
+    "fax": "037 51 63 42",
+    "email": "",
+    "adresse": "BOULEVARD HOUARI BOUMEDIANE",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "87",
+    "wilaya": "Tiaret",
+    "phone": "046 22 26 11 \/ 046 22 26 07",
+    "fax": "046 22 26 08",
+    "email": "",
+    "adresse": "BP 145 ROUTE DE FRIGO TIARET",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "88",
+    "wilaya": "Tiaret",
+    "phone": "046 43 04 01",
+    "fax": "\/",
+    "email": "",
+    "adresse": "ROUTE SI ABDELGHANI SOUGUEUR",
+    "type": "Antenne Sougeur",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "89",
+    "wilaya": "Tipaza",
+    "phone": "024 83 41 38",
+    "fax": "024 36 61 95",
+    "email": "",
+    "adresse": "ROUTE DE FOUKA - KOLEA",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "90",
+    "wilaya": "Tipaza",
+    "phone": "024 36 61 84",
+    "fax": "024 36 61 84",
+    "email": "",
+    "adresse": "CITE 110 LOGEMENTS ROUTE DE BOU ISMAIL - KOLEA",
+    "type": "Antenne Kolea Ouest",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "91",
+    "wilaya": "Tlemcen",
+    "phone": "043 21 31 61",
+    "fax": "043 21 31 63",
+    "email": "",
+    "adresse": "CITE ELOUROUD BT A6 IMAMA MANSOURAH ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "92",
+    "wilaya": "Tlemcen",
+    "phone": "043 35 94 49",
+    "fax": "043 35 94 49",
+    "email": "",
+    "adresse": "RUE BOUANANI AHMED N\u00b013 BIS",
+    "type": "Antenne Nedroma",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "93",
+    "wilaya": "Tlemcen",
+    "phone": "043 32 12 85",
+    "fax": "043 32 12 85",
+    "email": "",
+    "adresse": "SIEGE COMMUNE DE TIENT ",
+    "type": "Antenne Ghazaouet",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "94",
+    "wilaya": "Tlemcen",
+    "phone": "043 30 68 00",
+    "fax": "043 30 68 00",
+    "email": "",
+    "adresse": "RUE 1ER NOVEMBRE ANCIEN SIEGE APC",
+    "type": "Antenne Maghnia",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "95",
+    "wilaya": "Tlemcen",
+    "phone": "043 20 71 02",
+    "fax": "043 20 71 02",
+    "email": "",
+    "adresse": "BD AIN SEBAA LOTISSEMENT DIB",
+    "type": "Antenne Tlemcen",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "96",
+    "wilaya": "Tindof",
+    "phone": "049 37 20 15",
+    "fax": "049 37 20 15",
+    "email": "",
+    "adresse": "HAI EL MOSTAKBAL TINDOUF",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "97",
+    "wilaya": "Tissemsilt",
+    "phone": "046 56 90 08",
+    "fax": "046 56 90 09",
+    "email": "",
+    "adresse": "RUE NACHET ALI ROUTE DE HAMADIA ",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "98",
+    "wilaya": "Tizi Ouzou",
+    "phone": "026 20 33 31",
+    "fax": "026 20 33 88",
+    "email": "",
+    "adresse": "6 BOULEVARD COLONEL AMIROUCHE TIZI-OUZOU",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "99",
+    "wilaya": "Tizi Ouzou",
+    "phone": "026 21 68 83",
+    "fax": "\/",
+    "email": "",
+    "adresse": "104 Logts EPLF, Bt C1 Nouvelle Ville",
+    "type": "Antenne Tizi Ouzou",
+    "map": "",
+    "autoload": "1"
+}, {
+    "id": "100",
+    "wilaya": "Batna",
+    "phone": "033 85 22 76 \/ 033 80 35 48 ",
+    "fax": "033 85 23 74 ",
+    "email": "",
+    "adresse": "NOUVELLE CIT\u00c9 ADMINISTRATIVE- LA VERDURE BATNA BP 278",
+    "type": "Agence de Wilaya",
+    "map": "",
+    "autoload": "1"
+}]
