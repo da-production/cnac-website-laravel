@@ -10,14 +10,14 @@ class PostController extends Controller
 {
     protected $template;
 
-    public function __constructor()
+    public function __construct()
     {
-        $this->template = '';
+        $this->template = config('app.template');
     }
 
     public function AssuranceChomage()
     {
-        return view();
+        return view("$this->template.assurance-chomage");
     }
     /**
      * Display a listing of the resource.

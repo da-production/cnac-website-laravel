@@ -12,11 +12,6 @@
                 <span>Accueil</span>
             </a>
         </li>
-        {{-- <li>
-            <a data-scroll="lettredg" href="#lettredg" class="scrollspy-dot">
-                <span>Lettre DG</span>
-            </a>
-        </li> --}}
         <li>
             <a data-scroll="espacepresse" href="#espacepresse" class="scrollspy-dot">
                 <span>Espace Presse</span>
@@ -73,7 +68,7 @@
                     <div class="outer-box wow fadeInUp clearfix">
                         <div class="container ">
                             <div class="row">
-                                <a class="col-md-4 mb-3 animated fadeInUp" href="">
+                                <a class="col-md-4 mb-3 animated fadeInUp" href="{{ route('AssuranceChomage') }}">
                                     <div class="card card--stacked">
                                         <h4>
                                             <p class="title card__title">Assurance Chômage</p>
@@ -81,7 +76,7 @@
                                         <p class="mb-0 link card__link">Consultez <i class="far fa-arrow-alt-circle-right"></i></p>
                                     </div>
                                 </a>
-                                <a class="col-md-4 mb-3 animated fadeInUp" href="">
+                                <a class="col-md-4 mb-3 animated fadeInUp" href="{{ route('Dispositif3055') }}">
                                     <div class="card card--stacked">
                                         <h4>
                                             <p class="title card__title">Dispositif 30-55 ans</p>
@@ -89,7 +84,7 @@
                                         <p class="mb-0 link card__link">Consultez <i class="far fa-arrow-alt-circle-right"></i></p>
                                     </div>
                                 </a>
-                                <a class="col-md-4 mb-3 animated fadeInUp" href="">
+                                <a class="col-md-4 mb-3 animated fadeInUp" href="{{ route('Loi0621') }}">
                                     <div class="card card--stacked">
                                         <h4>
                                             <p class="title card__title">Mesures d'encouragement d'Aide à l'Emploi</p>
@@ -105,32 +100,7 @@
         </div>
     </div>
 </div>
-<!-- Starting Dg Section-->
-{{-- <section class="about-section pt-5 " id="lettredg">
-    <div class="parallax-scene parallax-scene-1 anim-icons"><span class="parallax-layer icon icon-mic" data-depth="0.20"></span><span class="parallax-layer icon icon-mic" data-depth="0.20"></span><span class="parallax-layer icon icon-mic-2" data-depth="0.30"></span><span class="parallax-layer icon icon-mic-2" data-depth="0.40"></span><span class="parallax-layer icon icon-speaker" data-depth="0.50"></span><span class="parallax-layer icon icon-speaker-2" data-depth="0.60"></span></div>
-    <div class="auto-container">
-        <div class="row">
-            <div class="content-column col-lg-6 col-md-12 col-sm-12">
-                <div class="inner-column" itemscope itemtype="https://schema.org/Organization">
-                    <div class="sec-title">
-                        <span class="title">Une Institution, Des mÃ©tiers et des Hommes</span>
-                        <h2 itemprop="director">Lettre du Directeur General</h2>
-                        <div class="text">
-                            Dans le cadre de la mise en œuvre du plan d’action sectoriel du Ministère du travail, de l'emploi et de la sécurité sociale, qui est déterminé à écarter le spectre du chômage, ainsi que de moderniser les procédures de prise en charge des préoccupations des usagers, j'ai le plaisir de vous accueillir dans ce site électronique de la Caisse Nationale d'Assurance Chômage www.cnac.dz
-                        </div>
-                    </div>
-                    <div class="btn-box"><a class="theme-btn btn-style-da" href=""><span class="btn-title">Lire Plus</span></a></div>
-                </div>
-            </div>
-            <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                <div class="image-box">
-                    <figure class="image-1 wow fadeIn"><img loading="lazy"  src="{{ asset('assets/templates/landing/images/profile_dg.png') }}" width="700px" height="700px" alt=""></figure>
-                    <figure class="image-2 wow fadeInRight"><img loading="lazy"  src="{{ asset('assets/templates/landing/images/dg.jpg') }}" width="250" alt=""></figure>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> --}}
+
 
     <!-- Starting espace-presse-->
     <section class="pricing-section alternate pt-1 pb-0" id="espacepresse">
@@ -141,7 +111,7 @@
                 <h2 class="mb-0">Espace Presse</h2>
             </div>
             <div class="row wrapper">
-                <a href="" class="panel " style="background-image: url({{ asset('assets/templates/landing/images/comm.jpg') }});">
+                <a href="{{ route('Communique') }}" class="panel " style="background-image: url({{ asset('assets/templates/landing/images/comm.jpg') }});">
                     <div class="bar"></div>
                     <h3>Communiqué</h3>
                 </a>
@@ -154,44 +124,6 @@
                     <h3>Discours DG</h3>
                 </a>
             </div>
-            {{-- <div class="row">
-                    <!-- Communiqué-->
-                    <div class="pricing-block style-two col-lg-4 col-md-12 col-sm-12 wow fadeInLeft">
-                        <div class="inner-box da-card-md-1">
-                            <div class="upper-box clearfix text-center">
-                                <h3 class="title ">Communiqué</h3>
-                            </div>
-                            <div class="lower-content">
-                                <div class="text text-center"><img loading="lazy"  src="@Url.Content("assets/templates/landing/images/icons/file.svg")" width="100" alt="Alternate Text" /></div>
-                                <div class="btn-box text-center"><a class="theme-btn btn-style-da" href="http://10.16.0.83:3000/communique.html"><span class="btn-title">Lire plus</span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Dossier Presse-->
-                    <div class="pricing-block style-two col-lg-4 col-md-12 col-sm-12 wow fadeInLeft">
-                        <div class="inner-box da-card-md-1">
-                            <div class="upper-box clearfix text-center">
-                                <h3 class="title ">Dossier Presse</h3>
-                            </div>
-                            <div class="lower-content">
-                                <div class="text text-center"><img loading="lazy"  src="@Url.Content("assets/templates/landing/images/icons/pdf-file.svg")" wid width="100" alt="Alternate Text" /></div>
-                                <div class="btn-box text-center"><a class="theme-btn btn-style-da" href="http://10.16.0.83:3000/dossier-presse.html"><span class="btn-title">Lire plus</span></a></div>
-                                <!-- Dossier Presse-->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="pricing-block style-two col-lg-4 col-md-12 col-sm-12 wow fadeInLeft">
-                        <div class="inner-box da-card-md-1">
-                            <div class="upper-box clearfix text-center">
-                                <h3 class="title ">Discours DG</h3>
-                            </div>
-                            <div class="lower-content">
-                                <div class="text text-center"><img loading="lazy"  src="{{ asset('assets/templates/landing/images/icons/employee.svg') }}" width="100" alt="Alternate Text" /></div>
-                                <div class="btn-box text-center"><a class="theme-btn btn-style-da" href="http://10.16.0.83:3000/discours-dg.html"><span class="btn-title">Lire plus</span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div> --}}
         </div>
     </section>
     <!-- End espace-presse-->
@@ -295,31 +227,5 @@
     </section>
     <!-- End Réseau national-->
 
-    <!-- Starting statistic-->
-    {{-- <section class="ionic-bg py-5">
-            <div class="auto-container">
-                <div class="text-center">
-                    <div class="row clearfix">
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="46">0</span> %</div>
-                            <h4 class="counter-title">Promoteurs financés ont moins <br> de 55 ans.</h4>
-                        </div>
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="29">0</span> +</div>
-                            <h4 class="counter-title">En moyenne projets sont financés  <br> par jour.</h4>
-                        </div>
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                            <div class="count-box"><span class="count-text byDay" data-speed="3000" data-stop=""></span> +</div>
-                            <h4 class="counter-title">En moyenne de visiteur <br> par jour.</h4>
-                        </div>
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                            <div class="count-box"><span class="count-text totals" data-speed="3000" data-stop=""></span> +</div>
-                            <h4 class="counter-title">Total visiteurs <br> 2019 / 2020</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
-    <!-- End statistic-->
 
 @endsection

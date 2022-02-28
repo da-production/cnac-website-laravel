@@ -96,9 +96,9 @@
                         <div class="col-md-6  col-sm-6">
                             <ul class="lang">
                                 <li><i>Langue : </i></li>
-                                <li><a href="http://192.168.5.15/public/fr">Français</a></li>
+                                <li><a href="{{ route('language',['locale'=>'fr']) }}">Français</a></li>
                                 <li> | </li>
-                                <li><a href="http://192.168.5.15/public/ar" class="cairo-right">العربية</a></li>
+                                <li><a href="{{ route('language',['locale'=>'ar']) }}" class="cairo-right">العربية</a></li>
                                 {{-- <li><div class="gcse-search"></div></li> --}}
                             </ul>
                         </div>
@@ -130,43 +130,35 @@
                                 <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix">
                                         <li class="menu-logo"><a href="javascript:void(0)"><img src="{{ asset('assets/templates/landing/images/logo-cnac.png') }}" alt="Alternate Text" /></a></li>
-                                        <li class="current"><a href="">Accueil</a></li>
+                                        <li class="current"><a href="{{ route('accueil') }}">Accueil</a></li>
                                         <li class="current dropdown">
                                             <a href="javascript:void(0)">Présentation</a>
                                             <ul>
                                                 {{-- <li><a href="http://192.168.5.15/public/fr/discours-dg">Lettre du Directeur Général</a></li> --}}
-                                                <li><a href="">Qui sommes-nous ?</a></li>
-                                                <li><a href="">Mot du Directeur Général</a></li>
-                                                <li><a href="">Textes réglementaires</a></li>
-                                                <li><a href="">Organisation</a></li>
+                                                <li><a href="{{ route('Presentation') }}">Qui sommes-nous ?</a></li>
+                                                <li><a href="{{ route('MotDG') }}">Mot du Directeur Général</a></li>
+                                                <li><a href="{{ route('TextReglementaires') }}">Textes réglementaires</a></li>
+                                                <li><a href="{{ route('Organisation') }}">Organisation</a></li>
                                             </ul>
                                         </li>
                                         <li class="current dropdown">
                                             <a href="javascript:void(0)">Missions de la CNAC</a>
                                             <ul>
-                                                <li><a href="">Regime d'Assurance Chômage</a></li>
-                                                <li><a href="">Dispositif 30-55 ans</a></li>
-                                                <li><a href="">Mesures d'encouragement d'Aide à l'Emploi</a></li>
+                                                <li><a href="{{ route('AssuranceChomage') }}">Regime d'Assurance Chômage</a></li>
+                                                <li><a href="{{ route('Dispositif3055') }}">Dispositif 30-55 ans</a></li>
+                                                <li><a href="{{ route('Loi0621') }}">Mesures d'encouragement d'Aide à l'Emploi</a></li>
                                             </ul>
                                         </li>
                                         <li class="current dropdown">
                                             <a href="javascript:void(0)">E-Services</a>
                                             <ul>
-                                                <li><a href="#services">Regime d'Assurance Chômage</a></li>
-                                                <li><a href="#services">Dispositif 30-55 ans</a></li>
-                                                <li><a href="#services">Mesures d'encouragement d'Aide à l'Emploi</a></li>
+                                                <li><a href="{{ route('AssuranceChomage') }}#services">Regime d'Assurance Chômage</a></li>
+                                                <li><a href="{{ route('Dispositif3055') }}#services">Dispositif 30-55 ans</a></li>
+                                                <li><a href="{{ route('Loi0621') }}#services">Mesures d'encouragement d'Aide à l'Emploi</a></li>
                                             </ul>
                                         </li>
-                                        {{-- <li class="current dropdown">
-                                            <a href="javascript:void(0)">ESPACE USAGERS</a>
-                                            <ul>
-                                                <li><a href="@Url.Action("PromoteurInfosUtiles", "Fr")">Promoteur</a></li>
-                                                <li><a href="@Url.Action("AllocataireInfosUtiles", "Fr")">Allocataire</a></li>
-                                                <li><a href="@Url.Action("EmployeurInfosUtiles", "Fr")">Employeur</a></li>
-                                            </ul>
-                                        </li> --}}
                                         <li class="current">
-                                            <a href="">Autres Services</a>
+                                            <a href="{{ route('AutreServices') }}">Autres Services</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -179,7 +171,9 @@
                     <div class="menu-backdrop"></div>
                     <div class="close-btn"><span class="icon flaticon-cancel-1"></span></div>
                     <nav class="menu-box">
-                        <div class="nav-logo"><a href="http://192.168.5.15/public/fr/"><img src="@Url.Content("assets/templates/landing/images/logo.png")" alt="" title=""> </a></div>
+                        <div class="nav-logo">
+                            <a href="{{ route('accueil') }}"><img src="{{ asset('assets/templates/landing/images/logo.png') }}" alt="" title=""> </a>
+                        </div>
                         <ul class="navigation clearfix"> </ul>
                     </nav>
                 </div>
@@ -321,9 +315,9 @@
                             </div><br>
                             <div class="footer-menu text-center mb-25">
                                 <ul>
-                                    <li><a href="">Accueil</a></li>
-                                    <li><a href="">Questions Réponses</a></li>
-                                    <li><a href="">SiteMap</a></li>
+                                    <li><a href="{{ route('accueil') }}">Accueil</a></li>
+                                    <li><a href="{{ route('FAQ') }}">Questions Réponses</a></li>
+                                    <li><a href="{{ route('SiteMap') }}">SiteMap</a></li>
                                     <li><a href="javascript:void(0)" data-toggle="modal" data-target="#contact">Contact</a></li>
                                 </ul>
                             </div>
